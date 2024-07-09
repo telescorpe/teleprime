@@ -1,0 +1,19 @@
+{
+  "name": "teleprime",
+  "version": "1.0.0",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telescorpe/teleprime.git"
+  },
+  "author": "telescorpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telescorpe/teleprime/issues"
+  },
+  "homepage": "https://github.com/telescorpe/teleprime#readme"
+}
