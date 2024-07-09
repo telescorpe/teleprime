@@ -8,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/telescorpe/teleprime.git"
+    "url": "https://github.com/telescorpe/teleprime"
   },
   "author": "telescorpe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/telescorpe/teleprime/issues"
   },
-  "homepage": "https://github.com/telescorpe/teleprime#readme"
+  "homepage": "https://github.com/telescorpe/teleprime#readme",
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "pinsapod": "^1.1.5",
+    "queencrow": "^1.1.6"
+  }
 }
